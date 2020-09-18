@@ -1,5 +1,5 @@
 import React from "react"
-import Layout from "../components/layout"
+import Layout from "layout"
 import styled from "@emotion/styled"
 
 const Root = styled.div`
